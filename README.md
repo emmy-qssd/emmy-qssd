@@ -6,10 +6,9 @@
 </div>
 
 <!-- Titulo -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Não+importa+o+quão+genial+você+seja...;...você+não+pode+mudar+o+mundo+sozinho." alt="Typing"/>
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=N%C3%A3o+importa+o+qu%C3%A3o+genial+voc%C3%AA+seja...;...voc%C3%AA+n%C3%A3o+pode+mudar+o+mundo+sozinho." alt="Typing SVG" />
+</p>
 <br/>
 
 ---
