@@ -1,8 +1,8 @@
 <!-- Banner principal -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFC0CB">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffff">
 
 <div align="center">
-  <img src="gatinhos.jfif" width="100%" alt="banner"/>
+  <img src="gato_header.jfif" width="100%" alt="banner"/>
 </div>
 
 <!-- Titulo -->
@@ -13,11 +13,9 @@
 
 ---
 
-**Futura Analista de Sistemas / Media Designer**
+**Desenvolvedora Front-End/ Media Designer**
 
-> *"Neste mundo, há apenas o bem e o mal; essa foi a primeira verdade universal que entendi ao observar o mundo quando criança."*
-
-Atualmente, estou aprofundando meus estudos em **Python**, **SQL** e **JavaScript**.
+> *Atualmente, estou aprofundando meus estudos em **Python**, **SQL** e **JavaScript**.*
 
 Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** e **Python**.
 
@@ -25,7 +23,7 @@ Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** e **Python**
 
 <br clear="right"/>
 
-ⓘ  Origin    ╋━  Brazil 
+ⓘ  Origin — Brazil 
 
 ---
 
@@ -40,6 +38,7 @@ Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** e **Python**
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css&logoColor=pink)
 
 
 </div>
@@ -58,7 +57,7 @@ Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** e **Python**
 ---
 ##
 
-<img height="300em" src="flor.png"/>
+<img width="100%" src="detalhes.jfif"/>
 
 </div>
 
@@ -83,4 +82,4 @@ Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** e **Python**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFC0CB&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffff&section=footer">
