@@ -1,26 +1,25 @@
 <!-- Banner principal -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffff">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f70014">
 
 <div align="center">
-  <img src="gato_header.jfif" width="100%" alt="banner"/>
+  <img src="fundo.jpg" width="100%" alt="banner"/>
 </div>
 
 <!-- Titulo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=N%C3%A3o+importa+o+qu%C3%A3o+genial+voc%C3%AA+seja...;...voc%C3%AA+n%C3%A3o+pode+mudar+o+mundo+sozinho." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=%C3%80s+vezes...;+as+pessoas+mais+danificadas+s%C3%A3o+as+mais+bonitas." alt="Typing SVG" />
 </p>
-<br/>
 
 ---
 
-**Desenvolvedora Front-End/ Media Designer**
+**Desenvolvedora Front-End/ Designer UI**
 
 > *Atualmente, estou aprofundando meus estudos em **Python**, **SQL** e **JavaScript**.*
 
-Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** e **Python**.
+Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python** e **React**.
 
-<img align="right" width="240px" src="gatogif.gif" alt="character"/>
-
+<img align="right" width="240px" src="gatinho_rockeiro.jpg" alt="character"/>
+<img align="left" width="240px" src="guitar.png" alt="character"/>
 <br clear="right"/>
 
 ⓘ  Origin — Brazil 
@@ -38,38 +37,24 @@ Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** e **Python**
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css&logoColor=pink)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css&logoColor=5ec4ff)
 
 
 </div>
 
 ---
 
-## Estatísticas
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=emmy-qssd&theme=dark&ring=FFB6C1&fire=fff&currStreakLabel=fff&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=fff" alt="streak"/>
-
-<br/><br/>
 
 
 ---
 ##
 
-<img width="100%" src="detalhes.jfif"/>
+<img width="100%" src="guitarras.jpg"/>
 
 </div>
 
----
 
-## 💻 Gráfico de Contribuição
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmy-qssd&bg_color=0d0d0d&color=fff&line=FFB6C1&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=000&title_color=fff)](https://github.com/ladymnria)
-
-</div>
 
 ---
 
@@ -82,4 +67,4 @@ Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** e **Python**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffff&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f70014&section=footer">
