@@ -1,8 +1,8 @@
 <!-- Banner principal -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f70014">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fff">
 
 <div align="center">
-  <img src="fundo.jpg" width="100%" alt="banner"/>
+  <img src="morcegobranco.png" width="100%" height = "350" alt="banner"/>
 </div>
 
 <!-- Titulo -->
@@ -12,14 +12,13 @@
 
 ---
 
-**Desenvolvedora Front-End/ Designer UI**
+**Desenvolvedora Front-End/ Designer Gráfica**
 
 > *Atualmente, estou aprofundando meus estudos em **Python**, **SQL** e **JavaScript**.*
 
 Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python** e **React**.
 
-<img align="right" width="240px" src="gatinho_rockeiro.jpg" alt="character"/>
-<img align="left" width="240px" src="guitar.png" alt="character"/>
+<img align="right" width="240px" src="branco.png" alt="character"/>
 <br clear="right"/>
 
 ⓘ  Origin — Brazil 
@@ -50,7 +49,7 @@ Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python**
 ---
 ##
 
-<img width="100%" src="guitarras.jpg"/>
+<img width="100%" src="fantasmas.gif"/>
 
 </div>
 
@@ -67,4 +66,4 @@ Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f70014&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fff&section=footer">
