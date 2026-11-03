@@ -13,16 +13,16 @@
 
 ---
 
-**Desenvolvedora Front-End/ Designer GrÃ¡fica**
+**Desenvolvedora Front-End/ Designer Gráfica**
 
 > *Atualmente, estou aprofundando meus estudos em **Python**, **SQL** e **JavaScript**.*
 
-Tenho experiÃªncia com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python** e **React**.
+Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python** e **React**.
 
 <img align="right" width="240px" src="branco.png" alt="character"/>
 <br clear="right"/>
 
-â“˜  Origin â€” Brazil 
+- ✈️ Origem —  Brazil 
 
 ---
 
@@ -47,8 +47,7 @@ Tenho experiÃªncia com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python
 
 
 
----
-##
+
 
 <img width="100%" src="fantasmas.gif"/>
 
@@ -57,15 +56,6 @@ Tenho experiÃªncia com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python
 
 
 ---
-
----
-
-<div align="center">
-
-<!-- Alguma mensagem aleatÃ³ria para dar mais composiÃ§Ã£o -->
-*â™° "A paz jamais serÃ¡ conquistada atravÃ©s da violÃªncia." â™°*
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fff&section=footer">
 
