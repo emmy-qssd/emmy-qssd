@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fff">
 
 <div align="center">
-  <img src="morcegobranco.png" width="100%" height = "400" alt="banner"/>
+  <img src="morcegobranco.png" width="150%" height = "400" alt="banner"/>
 </div>
 
 <!-- Titulo -->
