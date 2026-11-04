@@ -15,9 +15,9 @@
 
 **Desenvolvedora Front-End/ Designer Gráfica**
 
-> *Atualmente, estou aprofundando meus estudos em **Python**, **SQL** e **JavaScript**.*
+> *Atualmente, estou aprofundando meus estudos em **React**, **SQL** e **JavaScript**.*
 
-Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python** e **React**.
+Tenho experiência com **HTML5**, **CSS3**, **JavaScript**, **Git** , **Python** , **React** e **Bootstrap**.
 
 <img align="right" width="240px" src="branco.png" alt="character"/>
 <br clear="right"/>
